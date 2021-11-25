@@ -7,5 +7,6 @@ public class TestBase {
 	}
 public void x() {
 	System.out.println("X");
+	//initialisation is done
 }
 }
