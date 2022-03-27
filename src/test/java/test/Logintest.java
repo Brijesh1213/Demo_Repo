@@ -7,7 +7,8 @@ public class Logintest {
 	@Test
 public void LoginTest() {
 	
-	
-	System.out.println("LoginTest"); // please fix this
+
+	System.out.println("LoginTest"); // please fix this//"fix issue"// "issue is now fixed"
+
 }
 }
