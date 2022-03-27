@@ -8,6 +8,6 @@ public class Logintest {
 public void LoginTest() {
 	
 	
-	System.out.println("LoginTest"); // please fix this
+	System.out.println("LoginTest"); // please fix this// i have fixed it
 }
 }
